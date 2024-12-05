@@ -1,10 +1,10 @@
 # Algorithms-and-Data-Structures
 
-## Dynamic Programming
+# Dynamic Programming
 #### You won't write it down anymore
 https://github.com/nrashchynski/dpIndividualTask
 
-## Binary Trees
+# Binary Trees
 #### Tree Traversals
 https://github.com/nrashchynski/TreeTraversals
 #### Delete From Trees
@@ -14,7 +14,7 @@ https://github.com/nrashchynski/IsBST
 #### Complex Task For Trees
 https://github.com/nrashchynski/TreeIndividual
 
-## Special Data Structures
+# Special Data Structures
 #### Binary Search
 https://github.com/nrashchynski/BinarySearch
 #### Binary Heap
