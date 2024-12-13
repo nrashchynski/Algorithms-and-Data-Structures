@@ -26,4 +26,6 @@ https://github.com/nrashchynski/destroyingRoads
 #### Sum Problem
 https://github.com/nrashchynski/sumProblem
 ### HashTable
-https://github.com/nrashchynski/hashTable
+https://github.com/nrashchynski/hashTableProblem
+### Complex Task For Graphs
+https://github.com/nrashchynski/IndividualTaskGraphs
